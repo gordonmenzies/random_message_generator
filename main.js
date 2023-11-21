@@ -8,3 +8,16 @@ example
 [data structure two] and have the following characteristics [data structure 3]"
 */
 
+
+/* 
+    random number generator to start 
+    three arrays (star sign) (silly type) (favourite food)
+
+*/
+
+// Random number generator 
+// stored information in arrays 
+// tool to iterate over arrays 
+// message outputted 
+// enact program
+
